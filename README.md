@@ -1,6 +1,8 @@
 # MTH9903_capstone_project
 Baruch MFE course: Capstone Project (MTH 9903)
 
+instructor: Prof. Andrew Lesniewski
+
 data: data we use for the research
 
 papers: papers we refer to
